@@ -6,5 +6,10 @@ namespace TP_MODUL3_103022400110
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
